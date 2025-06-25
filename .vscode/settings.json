@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "source_location": "cpp",
+        "stacktrace": "cpp"
+    }
+}
